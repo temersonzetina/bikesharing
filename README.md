@@ -27,7 +27,7 @@ The great majority of trips were under 20 minutes.
 
 Men appear to access bikeshare at the highest rates in NYC. It is unclear whether this finding applies to Des Moines.
 ![Ride duration by gender](https://github.com/temersonzetina/bikesharing/blob/main/ridedurationbygender.png)
-
+![Gender key](https://github.com/temersonzetina/bikesharing/blob/main/gender_key.png)
 #### Trips by weekday (per hour)
 
 Bike rentals correspond with daily commute times during the weekdays.
