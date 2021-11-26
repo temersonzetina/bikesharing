@@ -20,7 +20,7 @@ Bike rentals were clustered in certain areas of the city. The founders will want
 #### Checkout times for users
 
 The great majority of trips were under 20 minutes.
-![Ride duration](https://github.com/temersonzetina/bikesharing/blob/main/rideduration.png)
+![Ride duration](https://github.com/temersonzetina/bikesharing/blob/main/rideduration_final.png)
 
 
 #### Checkout times by gender
