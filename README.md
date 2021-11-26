@@ -7,31 +7,31 @@ The purpose of this analysis was to display key trends in bikesharing in New Yor
 I have described the results from each of the visualizations below, as well as any corresponding insights.
 
 #### Total rides
-[Total rides](https://github.com/temersonzetina/bikesharing/blob/main/overallrides.png)
+![Total rides](https://github.com/temersonzetina/bikesharing/blob/main/overallrides.png)
 In August of 2017, there were roughly 2.3M individual bike rides in NYC. This is roughly 1 ride for very 4 NYC residents. If the founders were to replicate this level of participation in Des Moines, they would see nearly 55K rides in a comparably successful month.
 
 #### Rentals by starting point
-[Rentals by starting point](https://github.com/temersonzetina/bikesharing/blob/main/nychotspots.png)
+![Rentals by starting point](https://github.com/temersonzetina/bikesharing/blob/main/nychotspots.png)
 Bike rentals were clustered in certain areas of the city. The founders will want to carefully select similar areas on Des Moines.
 
 #### Checkout times for users
-[Ride duration](https://github.com/temersonzetina/bikesharing/blob/main/rideduration.png)
+![Ride duration](https://github.com/temersonzetina/bikesharing/blob/main/rideduration.png)
 The great majority of trips were under 20 minutes.
 
 #### Checkout times by gender
-[Ride duration by gender](https://github.com/temersonzetina/bikesharing/blob/main/ridedurationbygender.png)
+![Ride duration by gender](https://github.com/temersonzetina/bikesharing/blob/main/ridedurationbygender.png)
 Men appear to access bikeshare at the highest rates in NYC. It is unclear whether this finding applies to Des Moines.
 
 #### Trips by weekday (per hour)
-[Usage by weekday](https://github.com/temersonzetina/bikesharing/blob/main/usagebyweekday.png)
+![Usage by weekday](https://github.com/temersonzetina/bikesharing/blob/main/usagebyweekday.png)
 Bike rentals correspond with daily commute times during the weekdays.
 
 #### Trips by gender for each hour of weekday
-[Usage by weekday for gender](https://github.com/temersonzetina/bikesharing/blob/main/genderusage.png)
+![Usage by weekday for gender](https://github.com/temersonzetina/bikesharing/blob/main/genderusage.png)
 Usage times don't seem to vary much by gender.
 
 #### User-type trips by gender for each weekday
-[User-type trips](https://github.com/temersonzetina/bikesharing/blob/main/usertypes.png)
+![User-type trips](https://github.com/temersonzetina/bikesharing/blob/main/usertypes.png)
 Driving subscriptions should be the top priority in terms of sales (over, for instance, one-off rides or vacationers in need of short transport).
 
 ### Summary
