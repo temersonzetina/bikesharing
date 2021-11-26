@@ -14,7 +14,7 @@ In August of 2017, there were roughly 2.3M individual bike rides in NYC.
 
 #### Rentals by starting point
 
-Bike rentals were clustered in certain areas of the city. The founders will want to carefully select similar areas on Des Moines.
+Bike rentals were clustered in certain areas of the city. The founders will want to carefully select similar areas in Des Moines.
 ![Rentals by starting point](https://github.com/temersonzetina/bikesharing/blob/main/nychotspots.png)
 
 #### Checkout times for users
