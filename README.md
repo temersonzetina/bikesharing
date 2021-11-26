@@ -8,7 +8,7 @@ I have described the results from each of the visualizations below, as well as a
 
 #### Total rides
 
-In August of 2017, there were roughly 2.3M individual bike rides in NYC. This is roughly 1 ride for very 4 NYC residents. If the founders were to replicate this level of participation in Des Moines, they would see nearly 55K rides in a comparably successful month.
+In August of 2017, there were roughly 2.3M individual bike rides in NYC.
 ![Total rides](https://github.com/temersonzetina/bikesharing/blob/main/overallrides.png)
 
 #### Rentals by starting point
